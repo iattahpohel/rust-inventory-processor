@@ -1,0 +1,36 @@
+{
+  "name": "rust-inventory-processor-native",
+  "version": "0.1.0",
+  "description": "Native Node.js addon for inventory history processor (napi-rs)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts", "*.node", "README.md"],
+  "napi": {
+    "name": "rust_inventory_processor_native",
+    "triples": {
+      "defaults": true,
+      "additional": [
+        "x86_64-apple-darwin",
+        "aarch64-apple-darwin",
+        "x86_64-unknown-linux-gnu",
+        "aarch64-unknown-linux-gnu",
+        "x86_64-pc-windows-msvc"
+      ]
+    }
+  },
+  "scripts": {
+    "build": "napi build --platform",
+    "prepublishOnly": "napi build --platform"
+  },
+  "devDependencies": {
+    "@napi-rs/cli": "^2.18"
+  },
+  "engines": {
+    "node": ">= 18"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iattahpohel/rust-inventory-processor"
+  }
+}

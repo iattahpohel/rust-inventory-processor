@@ -1,0 +1,16 @@
+[package]
+name = "rust-inventory-processor-native"
+version = "0.1.1"
+edition = "2021"
+description = "Native Node.js addon for rust-inventory-processor (napi-rs)"
+
+[lib]
+crate-type = ["cdylib"]
+
+[build-dependencies]
+napi-build = "2"
+
+[dependencies]
+rust-inventory-processor = { path = "..", features = ["wasm"] }
+napi = "2"
+napi-derive = "2"
