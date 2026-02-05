@@ -1,0 +1,14 @@
+/Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/deps/serde-f24675b3335eed85.d: /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/build/serde-d02459391328ece4/out/private.rs
+
+/Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/deps/libserde-f24675b3335eed85.rlib: /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/build/serde-d02459391328ece4/out/private.rs
+
+/Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/deps/libserde-f24675b3335eed85.rmeta: /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/build/serde-d02459391328ece4/out/private.rs
+
+/Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/atta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/build/serde-d02459391328ece4/out/private.rs:
+
+# env-dep:OUT_DIR=/Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/build/serde-d02459391328ece4/out

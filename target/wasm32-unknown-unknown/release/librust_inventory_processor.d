@@ -1,0 +1,1 @@
+/Volumes/External/workspace/fado/rust-implement/target/wasm32-unknown-unknown/release/librust_inventory_processor.rlib: /Volumes/External/workspace/fado/rust-implement/src/lib.rs /Volumes/External/workspace/fado/rust-implement/src/process_inventory_list.rs /Volumes/External/workspace/fado/rust-implement/src/wasm.rs

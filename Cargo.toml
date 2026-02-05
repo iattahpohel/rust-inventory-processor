@@ -1,0 +1,26 @@
+[package]
+name = "rust-inventory-processor"
+version = "0.1.0"
+edition = "2021"
+description = "Rust/WASM inventory history processor for TypeScript"
+license = "MIT"
+repository = "https://github.com/iattahpohel/rust-inventory-processor"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[features]
+default = []
+wasm = ["wasm-bindgen", "serde", "serde_json", "js-sys"]
+
+[dependencies]
+chrono = { version = "0.4", default-features = false, features = ["serde"] }
+wasm-bindgen = { version = "0.2", optional = true }
+serde = { version = "1.0", features = ["derive"], optional = true }
+serde_json = { version = "1.0", optional = true }
+js-sys = { version = "0.3", optional = true }
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
